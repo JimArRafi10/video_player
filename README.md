@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+# Overview
+When the app is initially opened, it retrieves data from an API and displays the fetched information. Upon clicking any thumbnail or title, the app redirects to the video player page. Initially, the thumbnail image is displayed, and when the video loads, the thumbnail image is hidden, and the video begins playing. Additionally, clicking on the channel or comment redirects to a black page. An issue arose while dealing with titles in Bangla font. Despite numerous attempts to resolve it, the problem persisted, manifesting as the display of an unfamiliar, anonymous word instead of the expected Bangla font
 
-This project is a starting point for a Flutter application.
+## StateManagement
+GetX
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
