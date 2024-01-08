@@ -9,7 +9,7 @@ When the app is initially opened, it retrieves data from an API and displays the
 GetX
 
 ## ScreenShot
-![Screenshot_20240104-201800](https://github.com/JimArRafi10/Picture-Gallery/assets/70357675/17ff5f7b-b0ea-433b-bf07-7695dafeb9ed)
+![Screenshot_20240108-100009 1](https://github.com/JimArRafi10/Picture-Gallery/assets/70357675/aade2955-a75c-478b-a820-1bf200887f57)
 ![Screenshot_20240104-201823](https://github.com/JimArRafi10/Picture-Gallery/assets/70357675/d5177e40-2aff-4663-a3f9-424ed16b7fd5)
 
 
